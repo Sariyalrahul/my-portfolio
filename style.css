@@ -88,8 +88,15 @@ section {
 
 /* Footer */
 footer {
-  background: #111;
+  background: #3e7262;
   color: white;
   text-align: center;
   padding: 15px 0;
+
+} 
+.social-links{
+  color:rgb(92, 55, 55);
+  list-style: none;
+
+
 }
